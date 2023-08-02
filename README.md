@@ -24,7 +24,7 @@ E em seguida executar o index.html
 ## 👾 Deploy
 Projeto hospedado em:
 
-✅ <a href="https://klvgk.github.io/projeto-luta/">Projeto Luta</a>
+✅ <a href="https://klvgk.github.io/starbucks/">Starbucks Website</a>
 <br><br>
 
 ## :handshake: Colaboradores
@@ -43,4 +43,4 @@ Projeto hospedado em:
 <br>
 
 ## :dart: Status do projeto
-* Finalizado, porém, com futuras atualizações. 
+* Finalizado
